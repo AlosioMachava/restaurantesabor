@@ -1,0 +1,46 @@
+h1 {
+    color: #f8fafa;
+    background-color: rgb(106, 111, 160);
+    font-size: xx-large;
+    width: auto;
+}
+
+body {margin: 20;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  padding: 20;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(Imagendefundo1.avif);
+  }
+  .caixa {
+    background-color: rgb(172, 166, 166);
+  }
+input {
+    color: brown;
+    background-color: cyan;
+}
+
+#img {
+  width: 40px;
+}
+#img img {
+  width: 40px;
+}
+
+.Menu { 
+font-size:larger;
+}
+
+.container { display: flex; 
+  align-items: center; 
+  border: 1px solid #ccc; 
+  padding: 10px; margin: 10px; } 
+  .container img { max-width: 200px; margin-right: 20px; } 
+  .container .info { max-width: 600px; }
+
+.centralizado {text-align: center;}
